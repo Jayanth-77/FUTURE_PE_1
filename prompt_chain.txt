@@ -1,0 +1,65 @@
+Prompt Chain Documentation – Task 1 (YouTube Video)
+
+Internship Track: Prompt Engineering
+Task: AI-Powered YouTube Script and Thumbnail Generator
+Topic: "5 AI Tools That Can Replace a Full-Time Job (in 2025)"
+
+Goal:
+Use AI tools (ChatGPT, DALL·E, Canva, Pictory) to generate a complete YouTube content package using structured prompts.
+
+Prompt Chain Steps:
+
+1. Generate Video Title Ideas
+Prompt:
+“Give me 5 viral YouTube video titles about AI tools that can replace a full-time job in 2025. Make them catchy and SEO-friendly.”
+Examples:
+- 5 AI Tools That Can Replace Your Job in 2025
+- These AI Tools Are Replacing Humans
+- Earn ₹1 Lakh Using AI Tools
+- AI Tools That Killed My 9-to-5
+- How to Survive in an AI World
+
+2. Create Script Outline
+Prompt:
+“Create a YouTube video outline for a video titled ‘5 AI Tools That Can Replace a Full-Time Job in 2025’. Include an intro, sections for each tool, and a closing summary.”
+Outline:
+1. Introduction
+2. Tool #1: ChatGPT
+3. Tool #2: MidJourney
+4. Tool #3: Pictory
+5. Tool #4: Durable
+6. Tool #5: Notion AI
+7. Final tips and motivational close
+
+3. Generate Full Script
+Prompt:
+“Using the outline above, write a complete 1000-word YouTube video script. Make it friendly, engaging, and simple for beginners. Include how each AI tool works and how it can help someone earn money.”
+
+4. Generate Thumbnail Text Ideas
+Prompt:
+“Give me 5 catchy thumbnail text lines for a YouTube video titled ‘5 AI Tools That Can Replace a Full-Time Job in 2025’. Make them bold, emotional, and clickable.”
+Examples:
+- “Bye Bye 9–5 👋”
+- “AI Took My Job 😱”
+- “Make ₹1 Lakh/Month with AI”
+- “Full-Time Income from 5 Tools!”
+- “No Degree? No Problem. Just AI.”
+
+5. Create Thumbnail Image Prompt (DALL·E)
+Prompt:
+“Create a thumbnail image showing a surprised office worker looking at robots typing on computers in an office. Use bold YouTube style with tech background and overlay text: ‘5 AI Tools That Replaced the Jobs’.”
+
+6. Generate Voice-Ready Version of Script (Optional)
+Prompt:
+“Turn this YouTube script into a natural-sounding voiceover script. Add pauses, break long lines, and make it conversational.”
+
+7. LinkedIn Post Prompt
+Prompt:
+“Write a LinkedIn post announcing that I’ve completed Task 1 in the Future Interns Prompt Engineering Internship. Include the tools used and a brief reflection.”
+
+Tools Used:
+- ChatGPT – for prompts, script, title
+- Pictory – to generate the video
+- DALL·E / Canva – for thumbnail image
+- TTSMaker / ElevenLabs – for voiceover
+- CapCut / Canva / Clipchamp – to sync video + voice
